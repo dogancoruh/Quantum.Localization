@@ -1,0 +1,32 @@
+﻿[
+  {
+    "id": "tr",
+    "name": "Türkçe",
+    "resourceGroups": [
+      {
+        "name": "Quantum.Localization.Sample.FormMain",
+        "resourceItems": [
+          {
+            "name": "FormMain.Text",
+            "value": "Quantum.Localization Örnek Uygulaması"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en",
+    "name": "English",
+    "resourceGroups": [
+      {
+        "name": "Quantum.Localization.Sample.FormMain",
+        "resourceItems": [
+          {
+            "name": "FormMain.Text",
+            "value": "Quantum.Localization Sample Application"
+          }
+        ]
+      }
+    ]
+  }
+]
